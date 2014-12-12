@@ -114,7 +114,7 @@ if (settings.httpNodeRoot !== false) {
     settings.httpNodeAuth = settings.httpNodeAuth || settings.httpAuth;
 }
 
-settings.uiPort = settings.uiPort||1880;
+settings.uiPort = settings.uiPort||5000;
 settings.uiHost = settings.uiHost||"0.0.0.0";
 
 settings.flowFile = flowFile || settings.flowFile;
