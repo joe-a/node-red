@@ -5,4 +5,4 @@
 \deftab720
 \pard\pardeftab720
 
-\f0\fs24 \cf0 web: node red.js -v}
+\f0\fs24 \cf0 web: node red.js}
