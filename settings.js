@@ -46,7 +46,7 @@ module.exports = {
     debugMaxLength: 1000,
 
     // The file containing the flows. If not set, it defaults to flows_<hostname>.json
-    //flowFile: 'flows.json',
+    flowFile: 'myflows.json',
 
     // To enabled pretty-printing of the flow within the flow file, set the following
     //  property to true:
